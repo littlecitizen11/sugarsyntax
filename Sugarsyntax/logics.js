@@ -31,5 +31,6 @@ function StringFormatter(string, dictionary){
         return newstr;
 }
 
-
 alert(StringFormatter(st,dict));
+
+
